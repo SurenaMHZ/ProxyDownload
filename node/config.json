@@ -1,0 +1,11 @@
+{
+  "secretKey": "CHANGE_THIS_SECRET",
+  "requireAuth": true,
+  "authToken": "MY_SUPER_SECRET_TOKEN",
+  "enableExpiry": true,
+  "expiryTime": 3600,
+  "limitSpeed": true,
+  "speedKB": 100,
+  "maxFileMB": 0,
+  "port": 3000
+}
